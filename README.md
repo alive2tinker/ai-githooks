@@ -1,2 +1,3 @@
 # Ai GIThooks
-testing with ollama - dxdxxxxxxx
+testing with ollama - dxdxxxxxxxx
+playing around with commit messages
