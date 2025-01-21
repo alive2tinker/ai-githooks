@@ -1,2 +1,2 @@
 # Ai GIThooks
-testing with ollama - dxd
+testing with ollama - dxdxx
