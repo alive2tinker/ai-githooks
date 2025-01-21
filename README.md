@@ -9,3 +9,6 @@ another test
 made very strong prompt
 how about now?
 another test. not sure yet about this one
+
+
+TRYING BRANCH NAME GENERATION
