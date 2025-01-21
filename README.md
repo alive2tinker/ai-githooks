@@ -6,3 +6,5 @@ playing around with commit messages.
 another one
 
 another test
+
+made very strong prompt
